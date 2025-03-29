@@ -1,0 +1,21 @@
+{
+    "name": "se'se.wav",
+    "file": "BASE/se'se.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 112896,
+    "lengthMillis": 2560.0,
+    "chunkSize": 112896,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742877869601,
+    "algorithmVersion": 4
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ke'ke.wav",
+    "file": "BASE/ke'ke.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 130816,
+    "lengthMillis": 2966.349,
+    "chunkSize": 130816,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742877704204,
+    "algorithmVersion": 4
+}

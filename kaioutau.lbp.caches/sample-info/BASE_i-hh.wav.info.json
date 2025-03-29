@@ -1,0 +1,21 @@
+{
+    "name": "i-hh.wav",
+    "file": "BASE/i-hh.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 172928,
+    "lengthMillis": 3921.2698,
+    "chunkSize": 172928,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742877553233,
+    "algorithmVersion": 4
+}

@@ -1,7 +1,7 @@
 ﻿singer_type: utau
 text_file_encoding: shift_jis
 portrait: 
-portrait_opacity: 1
+portrait_opacity: 0.3
 portrait_height: 0
 default_phonemizer: OpenUtau.Plugin.Builtin.EnglishCpVPhonemizerBETA
 subbanks:

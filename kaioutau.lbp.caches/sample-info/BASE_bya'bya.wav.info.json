@@ -1,0 +1,21 @@
+{
+    "name": "bya'bya.wav",
+    "file": "BASE/bya'bya.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 95872,
+    "lengthMillis": 2173.9683,
+    "chunkSize": 95872,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742878995619,
+    "algorithmVersion": 4
+}

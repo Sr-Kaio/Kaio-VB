@@ -1,0 +1,21 @@
+{
+    "name": "ro'ru'n'ra'n'ru.wav",
+    "file": "BASE/ro'ru'n'ra'n'ru.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 174720,
+    "lengthMillis": 3961.9048,
+    "chunkSize": 174720,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742879347203,
+    "algorithmVersion": 4
+}

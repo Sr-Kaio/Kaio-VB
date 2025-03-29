@@ -1,0 +1,21 @@
+{
+    "name": "hu'hu'hi'ho'ha'ho'hi.wav",
+    "file": "BASE/hu'hu'hi'ho'ha'ho'hi.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 213606,
+    "lengthMillis": 4843.674,
+    "chunkSize": 213606,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742878814663,
+    "algorithmVersion": 4
+}

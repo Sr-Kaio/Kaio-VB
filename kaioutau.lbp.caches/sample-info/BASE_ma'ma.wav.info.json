@@ -1,0 +1,21 @@
+{
+    "name": "ma'ma.wav",
+    "file": "BASE/ma'ma.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 98560,
+    "lengthMillis": 2234.9207,
+    "chunkSize": 98560,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742879133291,
+    "algorithmVersion": 4
+}

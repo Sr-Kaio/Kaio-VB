@@ -1,0 +1,21 @@
+{
+    "name": "bu'bu.wav",
+    "file": "BASE/bu'bu.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 56448,
+    "lengthMillis": 1280.0,
+    "chunkSize": 56448,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742878968051,
+    "algorithmVersion": 4
+}

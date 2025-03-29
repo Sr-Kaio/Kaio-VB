@@ -1,0 +1,21 @@
+{
+    "name": "kyu'kyu.wav",
+    "file": "BASE/kyu'kyu.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 150528,
+    "lengthMillis": 3413.3335,
+    "chunkSize": 150528,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742877736667,
+    "algorithmVersion": 4
+}

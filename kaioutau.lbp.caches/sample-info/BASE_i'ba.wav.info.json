@@ -1,0 +1,21 @@
+{
+    "name": "i'ba.wav",
+    "file": "BASE/i'ba.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 113792,
+    "lengthMillis": 2580.3174,
+    "chunkSize": 113792,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742878987193,
+    "algorithmVersion": 4
+}

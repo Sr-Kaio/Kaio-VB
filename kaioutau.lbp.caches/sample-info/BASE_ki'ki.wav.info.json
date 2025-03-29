@@ -1,0 +1,21 @@
+{
+    "name": "ki'ki.wav",
+    "file": "BASE/ki'ki.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 116480,
+    "lengthMillis": 2641.27,
+    "chunkSize": 116480,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742877691276,
+    "algorithmVersion": 4
+}

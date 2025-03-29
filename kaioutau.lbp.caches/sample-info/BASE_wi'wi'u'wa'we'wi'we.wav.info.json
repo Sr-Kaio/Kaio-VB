@@ -1,0 +1,21 @@
+{
+    "name": "wi'wi'u'wa'we'wi'we.wav",
+    "file": "BASE/wi'wi'u'wa'we'wi'we.wav",
+    "convertedFile": null,
+    "moduleName": "BASE",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 205184,
+    "lengthMillis": 4652.6987,
+    "chunkSize": 205184,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1742879458438,
+    "algorithmVersion": 4
+}
