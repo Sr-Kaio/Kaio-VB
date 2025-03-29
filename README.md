@@ -1,5 +1,6 @@
 # Kaio-VB (CVVCV Branch)
 
+
 ### Information about the Voicebank
 ---
 | Proprety     | Value                                                                            |
@@ -8,6 +9,8 @@
 | Type         | CVVCV (CVVC + VCV)                                                               |
 | Pitches      | Monopitch                                                                        |
 | Has Appends? | No                                                                               |
+
+**This voicebank includes some english phonemes for JAPANESE -> ENGLISH.**
 
 ### Information about the Character
 ---
