@@ -1,5 +1,4 @@
 # Kaio-VB (CVVCV Branch)
----
 
 ### Information about the Voicebank
 ---
